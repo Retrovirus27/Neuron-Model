@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.pyc
+analysis/**/*.pkl
+# macOS
+.DS_Store
+# respaldos locales
+backup/
